@@ -1,0 +1,76 @@
+<svg width="760" height="778" viewBox="0 0 760 778" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="760" height="778" rx="10" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="759" height="777" rx="10" fill="none" stroke="#30363d"/>
+<rect x="0" y="0" width="760" height="0" fill="#0d1117"/>
+<text x="30" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Languages</text>
+<text x="30" y="80" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Python</text>
+<rect x="220" y="66" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="66" width="0" height="10" rx="5" fill="#39c5cf"><animate attributeName="width" from="0" to="414.0" dur="1s" begin="0.00s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="75" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">90%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.90s" fill="freeze"/></text>
+<text x="30" y="114" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">C</text>
+<rect x="220" y="100" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="100" width="0" height="10" rx="5" fill="#58a6ff"><animate attributeName="width" from="0" to="322.0" dur="1s" begin="0.08s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="109" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">70%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.98s" fill="freeze"/></text>
+<text x="30" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">C++</text>
+<rect x="220" y="134" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="134" width="0" height="10" rx="5" fill="#58a6ff"><animate attributeName="width" from="0" to="345.0" dur="1s" begin="0.16s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="143" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">75%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.06s" fill="freeze"/></text>
+<text x="30" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">JavaScript</text>
+<rect x="220" y="168" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="168" width="0" height="10" rx="5" fill="#e3b341"><animate attributeName="width" from="0" to="299.0" dur="1s" begin="0.24s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="177" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">65%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.14s" fill="freeze"/></text>
+<text x="30" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">SQL</text>
+<rect x="220" y="202" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="202" width="0" height="10" rx="5" fill="#3fb950"><animate attributeName="width" from="0" to="368.0" dur="1s" begin="0.32s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="211" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">80%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.22s" fill="freeze"/></text>
+<text x="30" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Data Science & ML</text>
+<text x="30" y="300" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">NumPy</text>
+<rect x="220" y="286" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="286" width="0" height="10" rx="5" fill="#58a6ff"><animate attributeName="width" from="0" to="391.0" dur="1s" begin="0.40s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="295" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">85%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.30s" fill="freeze"/></text>
+<text x="30" y="334" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Pandas</text>
+<rect x="220" y="320" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="320" width="0" height="10" rx="5" fill="#8957e5"><animate attributeName="width" from="0" to="404.8" dur="1s" begin="0.48s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="329" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">88%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.38s" fill="freeze"/></text>
+<text x="30" y="368" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">scikit-learn</text>
+<rect x="220" y="354" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="354" width="0" height="10" rx="5" fill="#e3b341"><animate attributeName="width" from="0" to="377.2" dur="1s" begin="0.56s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="363" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">82%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.46s" fill="freeze"/></text>
+<text x="30" y="402" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">PyTorch</text>
+<rect x="220" y="388" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="388" width="0" height="10" rx="5" fill="#f85149"><animate attributeName="width" from="0" to="331.2" dur="1s" begin="0.64s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="397" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">72%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.54s" fill="freeze"/></text>
+<text x="30" y="436" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Jupyter</text>
+<rect x="220" y="422" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="422" width="0" height="10" rx="5" fill="#e3b341"><animate attributeName="width" from="0" to="414.0" dur="1s" begin="0.72s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="431" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">90%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.62s" fill="freeze"/></text>
+<text x="30" y="470" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Matplotlib</text>
+<rect x="220" y="456" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="456" width="0" height="10" rx="5" fill="#39c5cf"><animate attributeName="width" from="0" to="358.8" dur="1s" begin="0.80s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="465" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">78%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.70s" fill="freeze"/></text>
+<text x="30" y="526" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Tools & Platforms</text>
+<text x="30" y="554" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Git</text>
+<rect x="220" y="540" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="540" width="0" height="10" rx="5" fill="#f85149"><animate attributeName="width" from="0" to="368.0" dur="1s" begin="0.88s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="549" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">80%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.78s" fill="freeze"/></text>
+<text x="30" y="588" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">GitHub</text>
+<rect x="220" y="574" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="574" width="0" height="10" rx="5" fill="#e6edf3"><animate attributeName="width" from="0" to="391.0" dur="1s" begin="0.96s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="583" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">85%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.86s" fill="freeze"/></text>
+<text x="30" y="622" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">VS Code</text>
+<rect x="220" y="608" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="608" width="0" height="10" rx="5" fill="#58a6ff"><animate attributeName="width" from="0" to="414.0" dur="1s" begin="1.04s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="617" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">90%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.94s" fill="freeze"/></text>
+<text x="30" y="656" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Google Colab</text>
+<rect x="220" y="642" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="642" width="0" height="10" rx="5" fill="#e3b341"><animate attributeName="width" from="0" to="404.8" dur="1s" begin="1.12s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="651" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">88%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.02s" fill="freeze"/></text>
+<text x="30" y="690" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Canva</text>
+<rect x="220" y="676" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="676" width="0" height="10" rx="5" fill="#39c5cf"><animate attributeName="width" from="0" to="345.0" dur="1s" begin="1.20s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="685" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">75%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.10s" fill="freeze"/></text>
+<text x="30" y="724" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Figma</text>
+<rect x="220" y="710" width="460" height="10" rx="5" fill="#30363d"/>
+<rect x="220" y="710" width="0" height="10" rx="5" fill="#f85149"><animate attributeName="width" from="0" to="331.2" dur="1s" begin="1.28s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></rect>
+<text x="692" y="719" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e" opacity="0">72%<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.18s" fill="freeze"/></text>
+</svg>
