@@ -10,6 +10,12 @@
 <br/>
 <sub>Correspondence: <a href="mailto:mim687391@gmail.com">mim687391@gmail.com</a> · <a href="https://github.com/MiMsAnA404">github.com/MiMsAnA404</a></sub>
 
+<br/><br/>
+
+`$ python researcher_profile.py`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2600&pause=900&color=2E8B57&center=false&vCenter=true&width=650&height=110&lines=%3E%3E%3E+hypothesis+%3D+%22curiosity+drives+discovery%22;%3E%3E%3E+run_experiment%28data%3D%22real_world%22%29;Status%3A+significant+pattern+found+%28p+%3C+0.05%29;Conclusion%3A+still+exploring..." />
+
 </div>
 
 <br/>
