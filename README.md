@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MiMsAnA404/MiMsAnA404/main/desk-illustration.svg" width="85%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=Afsana%20Mim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Research%20%7C%20Creative%20Coding&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=CSE+Undergrad+%40+EWU;Majoring+in+Data+Science;Turning+Data+into+Discovery;Research+%2B+Curiosity+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-# Afsana Mim
+<img src="https://raw.githubusercontent.com/MiMsAnA404/MiMsAnA404/main/desk-illustration.svg" width="85%"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/CSE%20Undergraduate-8957e5?style=flat-square"/>
 <img src="https://img.shields.io/badge/Data%20Science%20Major-39c5cf?style=flat-square"/>
